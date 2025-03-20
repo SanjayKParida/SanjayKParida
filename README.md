@@ -1,6 +1,9 @@
-<h3 align="left">👋Hello World! I'm Sanjay, a Flutter Developer.<br>👨🏼‍🎓 Studying Computer Science at  Jain University, Bangalore <br>👨🏼‍💻 Working as a Flutter developer since 2021</h3>
+<h3 align="left">👋Hello World! I'm Sanjay.<br>👨🏼‍🎓 Jain University, Bangalore <br>👨🏼‍💻 Flutter developer since 2021</h3>
 
-
+###
+<div align="center">
+<h3>Skill Set</h3>
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
