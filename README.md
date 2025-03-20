@@ -1,13 +1,5 @@
-<h3 align="left">👋Hello World!, I'm Sanjay K. Parida, a Flutter Developer.<br>👨🏼‍🎓 Studying Computer Science at  Jain University, Bangalore <br>👨🏼‍💻 Working as a Flutter developer since 2021</h3>
+<h3 align="left">👋Hello World! I'm Sanjay, a Flutter Developer.<br>👨🏼‍🎓 Studying Computer Science at  Jain University, Bangalore <br>👨🏼‍💻 Working as a Flutter developer since 2021</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayKParida&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Sanjay's%20Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjayKParida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
@@ -52,7 +44,7 @@
   </a>
 </div>
 
-###
+
 
 <br clear="both">
 
@@ -62,4 +54,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-###
+
