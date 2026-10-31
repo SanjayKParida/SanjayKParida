@@ -6,118 +6,52 @@
 
 </div>
 
-I'm a software engineer who likes owning things end to end — from a Flutter screen down to the AWS infra and the Redis queue behind it. Currently building the mobile + backend for [Flickit](https://flickit.app), a sports & fitness training app, and tinkering with AI-assisted developer tooling on the side.
+Software engineer who likes owning things end to end — from a Flutter screen down to the AWS infra and the Redis queue behind it. Currently building the mobile + backend for [Flickit](https://flickit.app), a sports & fitness app with 5K+ downloads, and tinkering with AI-assisted dev tooling on the side.
 
-###
-<div align="center">
-<h3>🛠️ Tech Stack</h3>
-</div>
+<br/>
 
 <div align="center">
 
-**Languages**
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart" title="Dart" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typescript" title="TypeScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript" title="JavaScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" title="Python" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java" title="Java" />
-
-<br/><br/>
-
-**Mobile**
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter" title="Flutter" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="32" alt="android" title="Android" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="32" alt="ios" title="iOS" />
-
-<br/><br/>
-
-**Backend & APIs**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="nodejs" title="Node.js" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express" title="Express" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32" alt="nextjs" title="Next.js" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react" title="React" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="tailwind" title="Tailwind CSS" />
-
-<br/><br/>
-
-**Cloud, Data & DevOps**
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="aws" title="AWS" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker" title="Docker" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="mongodb" title="MongoDB" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" alt="redis" title="Redis" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="firebase" title="Firebase" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="32" alt="linux" title="Linux" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git" title="Git" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </div>
 
-###
-<div align="center">
-<h3>📌 Featured Projects</h3>
-</div>
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📌 Featured Projects
 
-**🤖 [PatchPilot](https://github.com/SanjayKParida) · AI-assisted GitHub issue resolution** <!-- TODO: swap in the real repo/demo links -->
+**[PatchPilot](https://github.com/SanjayKParida)** — AI-assisted GitHub issue resolution <!-- TODO: real link --> <br/>
+Takes a GitHub issue through diagnosis → patch → validation → review → PR, using deterministic static code analysis across Dart/TS/JS/Python so the LLM only reasons over a small, ranked set of relevant files.
 
-A multi-stage LLM platform that takes a GitHub issue through *diagnosis → patch → validation → review → PR*. Does deterministic static code analysis across Dart, TypeScript, JavaScript and Python so the LLM only reasons over a small, ranked set of relevant files — then validates generated patches against commit-pinned snapshots to tell real regressions from pre-existing failures.
+**[Flickit](https://flickit.app)** — Sports & fitness training app, 5K+ downloads <br/>
+Own it end to end: 50+ Node.js/MongoDB APIs, an async Redis-backed video pipeline feeding GPU workers for AI sports analysis (YOLO + MediaPipe over WebSockets), Razorpay / Apple IAP.
 
-`FastAPI` `Redis` `GitHub Apps` `OAuth` `AWS`
+**[Medinex](https://github.com/SanjayKParida)** — Healthcare platform <!-- TODO: real link --> <br/>
+Appointments, medical records, and real-time patient-doctor messaging over WebSockets, with a Gemini chatbot. Backend runs as 15+ AWS Lambda functions behind API Gateway.
 
-</td>
-<td width="50%" valign="top">
-
-**🏥 [Medinex](https://github.com/SanjayKParida) · Healthcare platform** <!-- TODO: swap in the real repo link -->
-
-A patient-care app with appointment booking, medical records, and real-time patient–doctor messaging over WebSockets, plus a Gemini-powered chatbot for conversational assistance. Backend runs as 15+ AWS Lambda functions behind API Gateway via the Serverless Framework.
-
-`Flutter` `Node.js` `MongoDB` `AWS Lambda` `Gemini`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 [Portfolio](https://sanjaybuilds.online) · Personal site with an LLM assistant**
-
-Built with Next.js, React and Tailwind CSS, with an "Ask" assistant powered by Gemini and a contact form relayed through Resend. Rate-limits the chat endpoint with Upstash Redis and ships with its own scripts for verifying chat behavior and answer quality.
-
-`Next.js` `React` `Tailwind` `Gemini` `Upstash Redis`
-
-</td>
-<td width="50%" valign="top">
-
-**📱 [Flickit](https://flickit.app) · Sports & fitness training app**
-
-Own the engineering of a production Flutter app (5K+ downloads) end to end — 50+ REST APIs in Node.js/MongoDB, an async Redis-backed video pipeline feeding GPU workers for AI sports analysis (YOLO + MediaPipe over WebSockets), and Razorpay / Apple IAP payments.
-
-`Flutter` `Node.js` `AWS` `Redis` `YOLO` `MediaPipe`
-
-</td>
-</tr>
-</table>
+**[Portfolio](https://sanjaybuilds.online)** — Personal site with an LLM assistant <br/>
+Next.js, React, and Tailwind, with a Gemini-powered "Ask" assistant rate-limited via Upstash Redis.
 
 ###
 <div align="center">
