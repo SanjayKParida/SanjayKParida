@@ -41,13 +41,13 @@ Software engineer who likes owning things end to end — from a Flutter screen d
 
 ### 📌 Featured Projects
 
-**[PatchPilot](https://github.com/SanjayKParida)** — AI-assisted GitHub issue resolution <!-- TODO: real link --> <br/>
+**[PatchPilot](https://patchpilot.sanjaybuilds.online)** — AI-assisted GitHub issue resolution <!-- TODO: real link --> <br/>
 Takes a GitHub issue through diagnosis → patch → validation → review → PR, using deterministic static code analysis across Dart/TS/JS/Python so the LLM only reasons over a small, ranked set of relevant files.
 
 **[Flickit](https://flickit.app)** — Sports & fitness training app, 5K+ downloads <br/>
 Own it end to end: 50+ Node.js/MongoDB APIs, an async Redis-backed video pipeline feeding GPU workers for AI sports analysis (YOLO + MediaPipe over WebSockets), Razorpay / Apple IAP.
 
-**[Medinex](https://github.com/SanjayKParida)** — Healthcare platform <!-- TODO: real link --> <br/>
+**[Medinex](https://github.com/SanjayKParida/medinex)** — Healthcare platform <!-- TODO: real link --> <br/>
 Appointments, medical records, and real-time patient-doctor messaging over WebSockets, with a Gemini chatbot. Backend runs as 15+ AWS Lambda functions behind API Gateway.
 
 **[Portfolio](https://sanjaybuilds.online)** — Personal site with an LLM assistant <br/>
